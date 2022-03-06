@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KisalayGhosh
 - 👀 I’m interested in Computational science, HPC, Computer Graphics, Quantum Computing
 - 🌱 I’m currently learning ... Opengl
-- 💞️ I’m looking to collaborate in the fied of HPC
+- 💞️ I’m looking to collaborate in the fied of computational science
 
 
 <!---
