@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisalayghosh&label=Profile%20views&color=4e656e&style=flat" alt="kisalayghosh" /> </p>
 
-- 🔭 I’m currently working on **building Upatto- A fully automated application for data engineering**
+- 🔭 I’m currently working on **Magnetic Reconnection points in steller fluid flow**
 
-- 🌱 I’m currently learning **FastApi, Keycloak, Spark, Apache beam**
+- 🌱 I’m currently learning **HPC, MPI, MATLAB, C++, Scientific computing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KisalayGhosh](https://github.com/KisalayGhosh)
 
 - 📫 How to reach me **kisalay.ghsh20027@gmail.com**
+- 📫 My official Email ID:  **kg24n@fsu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
