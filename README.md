@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kisalay Ghosh</h1>
-<h3 align="center">Passionate about Scientific computing, Simulation, Numerical Techniques, Computational Physics, Quantum Computing</h3>
+<h3 align="center">Passionate about Machine Learning, Distributed Systems and High performance computing, Scientific computing, Computational Physics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisalayghosh&label=Profile%20views&color=4e656e&style=flat" alt="kisalayghosh" /> </p>
 
-- 🔭 I’m currently working on **Magnetic Reconnection points in steller fluid flow**
+- 🔭 I’m currently working on **Magnetic Reconnection points in steller fluid flow, Acceleration of simulation code for neutrino transport in type 1a supernovae**
 
 - 🌱 I’m currently learning **HPC, MPI, MATLAB, C++, Scientific computing**
 
