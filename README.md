@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kisalay Ghosh</h1>
-<h3 align="center">Passionate about Machine Learning, Distributed Systems and High performance computing, Scientific computing, Computational Physics </h3>
+<h3 align="center">Interested about Machine Learning, Distributed Systems and High performance computing, Scientific computing, Computational Physics </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisalayghosh&label=Profile%20views&color=4e656e&style=flat" alt="kisalayghosh" /> </p>
 
